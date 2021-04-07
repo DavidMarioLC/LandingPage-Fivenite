@@ -17,17 +17,17 @@ abrir el link de arriba 👆
 ## :mag: Vistas 
 
 ### :computer: Desktop
+![Design preview for the Four card feature section coding challenge](https://github.com/DavidMarioLC/portafolio-fivenite/blob/main/images/thumbail-desktop.jpg)
 
-<imagen aquí>
 
 ### :iphone: Mobile
+![que va aqui](https://github.com/DavidMarioLC/portafolio-fivenite/blob/main/images/thumbail-mobile.PNG)
 
-<imagen aquí>
 
 ## :pushpin: Stack
 
-<escribe aquí>
+css html
 
 ## :star2: Autor
 
-* **<Tu nombre>**  - [@<username>](https://github.com/<username>)
+* **DavidMarioLC**  - [@DavidMarioLC](https://github.com/<DavidMarioLC>)
