@@ -179,38 +179,53 @@ a {
 .more-info {
     position: relative;
     width: 100%;
+    height: auto;
 }
 
 .more-info__img {
+    display: block;
     width: 100%;
     max-width: 100%;
-    display: block;
+
 }
 
 
+
+.more-info__button {
+    position: absolute;
+    display: inline-block;
+    top: 100px;
+    left: 100px;
+
+    background-color: var(--yellow);
+    font-family: 'burbank';
+    color: var(--darkgray);
+    font-size: 1.5rem;
+    padding: .5rem 1rem;
+    text-align: center;
+
+
+
+}
+
+.more-info2 {
+    background-image: url('/images/hero-banner-footer.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 600px
+}
+
+.more-info__button2 {
+    ;
+}
 
 /* footer */
 .footer {
     background-color: var(--darkgray);
 }
 
-.more-info__button {
-    display: inline;
-    position: absolute;
-    left: 500px;
-    right: 500px;
-    bottom: 150px;
-    width: 300px;
 
-    background-color: var(--yellow);
-    font-family: 'burbank';
-    color: var(--darkgray);
-    padding: 1rem 2rem;
-    font-size: 3rem;
-    text-align: center;
-
-
-}
 
 .footer-logo {
     color: var(--white);
@@ -258,6 +273,11 @@ a {
 
     }
 
+    .more-info__button {
+        top: 300px;
+        left: 300px;
+    }
+
     .footer__content {
         display: flex;
     }
@@ -279,6 +299,13 @@ a {
 
     .searchAndWorld {
         display: flex;
+    }
+
+    .more-info__button {
+        top: 550px;
+        left: 500px;
+        padding: 1rem 2rem;
+        font-size: 3rem;
     }
 
 }
